@@ -1,1 +1,2 @@
-![Day 1 Exercises](Week2Day1-Exercises.pdf)
+![Fundamental Network Topics exercises]("Network Topics.pdf")
+![The HTTP Protocol exercises]("The HTTP Protocol.pdf")
