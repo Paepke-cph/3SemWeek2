@@ -1,0 +1,6 @@
+nb-configuration.xml
+target/
+*iml
+.idea/
+lib/
+other/
